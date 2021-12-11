@@ -1,0 +1,13 @@
+C:\Users\Chad\source\repos\Choose Your Adventure\Choose Your Adventure\bin\Debug\netcoreapp3.1\Choose Your Adventure.exe
+C:\Users\Chad\source\repos\Choose Your Adventure\Choose Your Adventure\bin\Debug\netcoreapp3.1\Choose Your Adventure.deps.json
+C:\Users\Chad\source\repos\Choose Your Adventure\Choose Your Adventure\bin\Debug\netcoreapp3.1\Choose Your Adventure.runtimeconfig.json
+C:\Users\Chad\source\repos\Choose Your Adventure\Choose Your Adventure\bin\Debug\netcoreapp3.1\Choose Your Adventure.runtimeconfig.dev.json
+C:\Users\Chad\source\repos\Choose Your Adventure\Choose Your Adventure\bin\Debug\netcoreapp3.1\Choose Your Adventure.dll
+C:\Users\Chad\source\repos\Choose Your Adventure\Choose Your Adventure\bin\Debug\netcoreapp3.1\Choose Your Adventure.pdb
+C:\Users\Chad\source\repos\Choose Your Adventure\Choose Your Adventure\obj\Debug\netcoreapp3.1\Choose Your Adventure.csproj.AssemblyReference.cache
+C:\Users\Chad\source\repos\Choose Your Adventure\Choose Your Adventure\obj\Debug\netcoreapp3.1\Choose Your Adventure.AssemblyInfoInputs.cache
+C:\Users\Chad\source\repos\Choose Your Adventure\Choose Your Adventure\obj\Debug\netcoreapp3.1\Choose Your Adventure.AssemblyInfo.cs
+C:\Users\Chad\source\repos\Choose Your Adventure\Choose Your Adventure\obj\Debug\netcoreapp3.1\Choose Your Adventure.csproj.CoreCompileInputs.cache
+C:\Users\Chad\source\repos\Choose Your Adventure\Choose Your Adventure\obj\Debug\netcoreapp3.1\Choose Your Adventure.dll
+C:\Users\Chad\source\repos\Choose Your Adventure\Choose Your Adventure\obj\Debug\netcoreapp3.1\Choose Your Adventure.pdb
+C:\Users\Chad\source\repos\Choose Your Adventure\Choose Your Adventure\obj\Debug\netcoreapp3.1\Choose Your Adventure.genruntimeconfig.cache
