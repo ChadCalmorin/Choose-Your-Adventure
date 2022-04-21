@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Choose_Your_Adventure
 {
@@ -98,13 +98,8 @@ namespace Choose_Your_Adventure
                         Console.WriteLine("You choose the third key. The door doesn't open.");
                         Console.WriteLine("THE END.");
                         break;
-
-                        
                 }
             }
-
-        }
-
         }
     }
-
+}
